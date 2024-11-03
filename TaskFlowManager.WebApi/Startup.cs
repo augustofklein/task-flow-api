@@ -1,4 +1,5 @@
-﻿using TaskFlowManager.WebApi.DependenyInjection;
+﻿using Microsoft.AspNetCore.Mvc;
+using TaskFlowManager.WebApi.DependenyInjection;
 
 namespace TaskFlowManager.WebApi
 {
@@ -9,16 +10,12 @@ namespace TaskFlowManager.WebApi
             //services.AddDatabaseInjection(configuration);
             services.AddControllers();
 
-            //services.ConfigureServicesExtensions(configuration);
-
-            /*
             services.AddApiVersioning(config =>
             {
                 config.DefaultApiVersion = new ApiVersion(1, 0);
                 config.AssumeDefaultVersionWhenUnspecified = true;
                 config.ReportApiVersions = true;
             });
-            */
 
             services.AddHealthChecks();
             services.AddEndpointsApiExplorer();

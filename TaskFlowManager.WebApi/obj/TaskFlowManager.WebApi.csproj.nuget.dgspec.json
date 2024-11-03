@@ -4,14 +4,14 @@
     "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj": {
+    "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
-        "projectName": "TaskFlowManager.WebApi",
-        "projectPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+        "projectUniqueName": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
+        "projectName": "TaskFlowManager.Application",
+        "projectPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
         "packagesPath": "C:\\Users\\Augusto Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\obj\\",
+        "outputPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Augusto Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,92 @@
               "target": "Package",
               "version": "[12.4.1, )"
             },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
               "target": "Package",
               "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+        "projectName": "TaskFlowManager.WebApi",
+        "projectPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Augusto Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Augusto Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj": {
+                "projectPath": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Serilog": {
               "target": "Package",

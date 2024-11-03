@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "TaskFlowManager.WebApi.Controllers.TaskController",
+    "Method": "GetTasks",
+    "RelativePath": "v{version}/Task",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

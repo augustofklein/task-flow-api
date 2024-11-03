@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Projects\\TaskFlowManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}|TaskFlowManager.Application\\TaskFlowManager.Application.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.application\\taskflowmanager.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}|TaskFlowManager.Application\\TaskFlowManager.Application.csproj|solutionrelative:taskflowmanager.application\\taskflowmanager.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}|TaskFlowManager.Application\\TaskFlowManager.Application.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.application\\taskflowmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}|TaskFlowManager.Application\\TaskFlowManager.Application.csproj|solutionrelative:taskflowmanager.application\\taskflowmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\dependenyinjection\\mediatorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\dependenyinjection\\mediatorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\taskflowmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|solutionrelative:taskflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21455FBB-1634-4982-930C-206537670785}|TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj|c:\\projects\\taskflowmanager\\taskflowmanager.webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,74 +52,98 @@
               "RelativeDocumentMoniker": "TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
               "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
               "RelativeToolTip": "TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-03T13:23:57.019Z",
+              "WhenOpened": "2024-11-03T17:37:08.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TaskFlowManager.WebApi",
+              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+              "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+              "RelativeToolTip": "TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T17:33:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MediatorInjection.cs",
               "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\DependenyInjection\\MediatorInjection.cs",
               "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\DependenyInjection\\MediatorInjection.cs",
               "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\DependenyInjection\\MediatorInjection.cs",
               "RelativeToolTip": "TaskFlowManager.WebApi\\DependenyInjection\\MediatorInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T13:01:03.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:59:02.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TaskFlowManager.WebApi.csproj",
               "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
               "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
               "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
               "RelativeToolTip": "TaskFlowManager.WebApi\\TaskFlowManager.WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-03T12:55:43.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\Startup.cs",
+              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Startup.cs",
+              "RelativeToolTip": "TaskFlowManager.WebApi\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:42:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\Program.cs",
               "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Program.cs",
               "RelativeToolTip": "TaskFlowManager.WebApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T12:43:18.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Startup.cs",
-              "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\Startup.cs",
-              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Startup.cs",
-              "RelativeToolTip": "TaskFlowManager.WebApi\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TaskFlowManager.Application.csproj",
+              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
+              "RelativeDocumentMoniker": "TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
+              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
+              "RelativeToolTip": "TaskFlowManager.Application\\TaskFlowManager.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T13:23:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Projects\\TaskFlowManager\\TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskFlowManager.WebApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:42:13.229Z",
+              "WhenOpened": "2024-11-03T12:59:02.958Z",
               "EditorCaption": ""
             }
           ]

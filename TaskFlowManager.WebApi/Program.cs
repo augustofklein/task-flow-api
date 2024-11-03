@@ -1,5 +1,4 @@
 using Serilog;
-using TaskFlowManager.WebApi;
 
 namespace TaskFlowManager.WebApi
 {
