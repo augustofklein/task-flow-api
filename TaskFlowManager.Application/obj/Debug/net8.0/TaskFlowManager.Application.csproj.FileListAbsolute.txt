@@ -1,0 +1,12 @@
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.AssemblyInfoInputs.cache
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.AssemblyInfo.cs
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.csproj.CoreCompileInputs.cache
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.sourcelink.json
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\bin\Debug\net8.0\TaskFlowManager.Application.deps.json
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\bin\Debug\net8.0\TaskFlowManager.Application.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\bin\Debug\net8.0\TaskFlowManager.Application.pdb
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\refint\TaskFlowManager.Application.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.pdb
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\ref\TaskFlowManager.Application.dll

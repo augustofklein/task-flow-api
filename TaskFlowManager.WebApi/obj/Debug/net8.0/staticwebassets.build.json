@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PkP0cQULwzJrNd0VoovTCO23cOUy//CMPptyq5yx9Zg=",
+  "Source": "TaskFlowManager.WebApi",
+  "BasePath": "_content/TaskFlowManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -3,9 +3,38 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5CAD3AB8-B181-4AE2-A0CA-0DBA78054D75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{1CBF1221-24D6-47CC-B7BB-024154A9216C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskFlowManager.Application", "TaskFlowManager.Application\TaskFlowManager.Application.csproj", "{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlowManager.WebApi", "TaskFlowManager.WebApi\TaskFlowManager.WebApi.csproj", "{21455FBB-1634-4982-930C-206537670785}"
+	ProjectSection(ProjectDependencies) = postProject
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B} = {67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21455FBB-1634-4982-930C-206537670785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21455FBB-1634-4982-930C-206537670785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21455FBB-1634-4982-930C-206537670785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21455FBB-1634-4982-930C-206537670785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67FF62F7-7B90-4D87-ACDC-B6CE7D44096B} = {5CAD3AB8-B181-4AE2-A0CA-0DBA78054D75}
+		{21455FBB-1634-4982-930C-206537670785} = {5CAD3AB8-B181-4AE2-A0CA-0DBA78054D75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8A788D1-18BB-4DF5-9E3A-4F970613C635}
