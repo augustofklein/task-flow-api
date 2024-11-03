@@ -41,3 +41,6 @@ C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\obj\Debug\net8.0\refint\TaskF
 C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\obj\Debug\net8.0\TaskFlowManager.WebApi.pdb
 C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\obj\Debug\net8.0\TaskFlowManager.WebApi.genruntimeconfig.cache
 C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\obj\Debug\net8.0\ref\TaskFlowManager.WebApi.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.WebApi\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

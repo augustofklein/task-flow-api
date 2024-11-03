@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using TaskFlowManager.WebApi.DependenyInjection;
 
 namespace TaskFlowManager.WebApi
 {
@@ -23,7 +23,7 @@ namespace TaskFlowManager.WebApi
             services.AddHealthChecks();
             services.AddEndpointsApiExplorer();
 
-            //services.AddMediatorInjection();
+            services.AddMediatorInjection();
             //services.AddServices();
             //services.AddQueries();
             //services.AddRepositories();

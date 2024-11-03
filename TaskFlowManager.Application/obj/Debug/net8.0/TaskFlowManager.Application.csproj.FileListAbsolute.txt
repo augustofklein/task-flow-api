@@ -10,3 +10,4 @@ C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlo
 C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\refint\TaskFlowManager.Application.dll
 C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.pdb
 C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\ref\TaskFlowManager.Application.dll
+C:\Projects\TaskFlowManager\TaskFlowManager.Application\obj\Debug\net8.0\TaskFlowManager.Application.csproj.AssemblyReference.cache
